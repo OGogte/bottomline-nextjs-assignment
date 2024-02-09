@@ -5,7 +5,7 @@ export default function Home() {
 
 
       <nav className="flex justify-between items-center p-4">
-        <Image src="/logo.png" width={180} height={120} alt="Logo" className="w-18 h-12" />
+        <Image src="/logo.png" width={180 } height={120} alt="Logo" className="w-18 h-12" />
         <div className="page-group">
           <h1 className="home">Home</h1>
           <h1 className="other-pages">Privacy Policy</h1>
